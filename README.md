@@ -35,7 +35,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Campina Gra
 # 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/andrefqms">
+  <a href="https://github.com/SamuelLucasVM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelLucasVM&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLucasVM&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
