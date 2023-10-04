@@ -15,9 +15,9 @@ Sou estudante de Ciência da Computação na Universidade Federal de Campina Gra
 [![React][React.js]][React-url]
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![cpp](https://img.shields.io/static/v1?style=for-the-badge&message=cpp&color=222222&logo=cpp&logoColor=F7DF1E&label=)
-![gitlab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
-![dotnet](https://img.shields.io/badge/logo-dotnet-black?logo=dotnet)
-![golang](https://img.shields.io/badge/GoLang-blue?logo=go)
+![gitlab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=gitlab&logoColor=F7DF1E&label=))
+![dotnet](https://img.shields.io/badge/logo-dotnet-black?logo=dotnet](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=222222&logo=dotnet&logoColor=F7DF1E&label=))
+![golang](https://img.shields.io/badge/GoLang-blue?logo=go](https://img.shields.io/static/v1?style=for-the-badge&message=GoLang&color=222222&logo=go&logoColor=F7DF1E&label=))
 
 #### Atualmente participando (I'm currently participating)
 <a href="https://olimpiada.ic.unicamp.br">
