@@ -15,9 +15,9 @@ Sou estudante de Ciência da Computação na Universidade Federal de Campina Gra
 [![React][React.js]][React-url]
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![cpp](https://img.shields.io/static/v1?style=for-the-badge&message=cpp&color=222222&logo=cpp&logoColor=F7DF1E&label=)
-![gitlab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=gitlab&logoColor=F7DF1E&label=))
-![dotnet](https://img.shields.io/badge/logo-dotnet-black?logo=dotnet](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=222222&logo=dotnet&logoColor=F7DF1E&label=))
-![golang](https://img.shields.io/badge/GoLang-blue?logo=go](https://img.shields.io/static/v1?style=for-the-badge&message=GoLang&color=222222&logo=go&logoColor=F7DF1E&label=))
+![gitlab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=gitlab&logoColor=F7DF1E&label=)
+![dotnet](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=222222&logo=dotnet&logoColor=F7DF1E&label=)
+![golang](https://img.shields.io/static/v1?style=for-the-badge&message=GoLang&color=222222&logo=go&logoColor=F7DF1E&label=)
 
 #### Atualmente participando (I'm currently participating)
 <a href="https://olimpiada.ic.unicamp.br">
@@ -32,8 +32,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Campina Gra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuellucasvm/) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=cpp&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=cpp&logoColor=#00C7B7) ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=) ![dotnet](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=222222&logo=dotnet&logoColor=F7DF1E&label=) ![golang](https://img.shields.io/static/v1?style=for-the-badge&message=GoLang&color=222222&logo=go&logoColor=F7DF1E&label=) ![gitlab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=gitlab&logoColor=F7DF1E&label=)
 
 # 📊 GitHub Stats:
 
