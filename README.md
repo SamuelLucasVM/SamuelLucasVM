@@ -8,13 +8,16 @@
 Samuel Lucas
 </h1>
 <p align="justify" > 
-Sou estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG) atualmente interessado em áreas diversas, com experiências em Programação Competitiva e em Programação Web.
+Sou estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG) atualmente interessado em áreas diversas, com experiências em Programação Competitiva, Programação Web, Docker, Game Developer em Unity e GoLang.
 </p>
 
 #### Atualmente aprendendo (I’m currently learning)
 [![React][React.js]][React-url]
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![cpp](https://img.shields.io/static/v1?style=for-the-badge&message=cpp&color=222222&logo=cpp&logoColor=F7DF1E&label=)
+![gitlab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
+![dotnet](https://img.shields.io/badge/logo-dotnet-black?logo=dotnet)
+![golang](https://img.shields.io/badge/GoLang-blue?logo=go)
 
 #### Atualmente participando (I'm currently participating)
 <a href="https://olimpiada.ic.unicamp.br">
