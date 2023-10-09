@@ -26,6 +26,9 @@ Sou estudante de Ciência da Computação na Universidade Federal de Campina Gra
 <a href="https://codexjr.com.br">
 <img src="https://d1fdloi71mui9q.cloudfront.net/VW0vBUFfSd2yMK7zTipH_ce4cb09f2d654e29cdf8cc74ba7f26ed9.png" width="100px" />  
 </a>  
+<a href="https://brain.ufcg.edu.br">
+  <img src="https://lh4.googleusercontent.com/lzFe7VSjFhZrxdWeRCDBNejgmv8Hf0L4gtKF2llhmR1_dPhY6-qJB8RbhkDS2lLshSGPdmwR_wDn-JPqIPljmiEZoQQa8iRIEpJB3tFw79tCPey1=w1280" width="100px"/>
+</a>
 </div>
 
 ## 🌐 Socials:
