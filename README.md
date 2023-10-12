@@ -27,7 +27,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Campina Gra
 <img src="https://d1fdloi71mui9q.cloudfront.net/VW0vBUFfSd2yMK7zTipH_ce4cb09f2d654e29cdf8cc74ba7f26ed9.png" width="100px" />  
 </a>  
 <a href="https://brain.ufcg.edu.br">
-  <img src="https://lh6.googleusercontent.com/-TeoGQ2pSG-q8VvNt8sVk1DKv9zul82sWx3R11XiYSIRgazVHbTBpnczb16QGU5iErPsIx7-LWH4bem19I7UlzsVHaG1wls3gh-mIGXx9rh6hsFI=w1280" height="100px"/>
+  <img src="https://lh6.googleusercontent.com/6usJxmeLDsblJYHBdukiZLaG_on6_5wTW9oz2pB1jAwAusOZzpfq8xZuz42DrKgrtOMDIEqRF7nZg29nA-V_l7GsJTEDOMEQatXs79AseZbmFR92=w1280" height="100px"/>
 </a>
 </div>
 
@@ -39,7 +39,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Campina Gra
 
 # 🥇 Achievements:
 <a href="http://www.dsc.ufcg.edu.br/~opi/">
-  🥇 Ouro na OPI 2023
+  🥇 Ouro na OPI 2023 <br/>
   🎖️ Participação na OPI 2022
 <a/>
 
