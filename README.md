@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://static.wikia.nocookie.net/pokeland/images/e/ef/Celebi.gif/revision/latest/thumbnail/width/360/height/360?cb=20170822034325&path-prefix=pt-br" min-width="100px" max-width="100px" width="100px" align="right" alt="Celebi">
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
@@ -19,15 +19,9 @@ Sou estudante de Ciência da Computação na Universidade Federal de Campina Gra
 ![dotnet](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=222222&logo=dotnet&logoColor=F7DF1E&label=)
 ![golang](https://img.shields.io/static/v1?style=for-the-badge&message=GoLang&color=222222&logo=go&logoColor=F7DF1E&label=)
 
-#### Atualmente participando (I'm currently participating)
-<a href="https://olimpiada.ic.unicamp.br">
-<img src="https://www.flowcode.com/_next/image?url=https%3A%2F%2Fcdn.flow.page%2Fimages%2Fda7856d6-ae0e-4112-b791-3d9539475e7b-profile-picture%3Fm%3D1670155520&w=384&q=75" width="100px" />  
-</a>
-<a href="https://codexjr.com.br">
-<img src="https://d1fdloi71mui9q.cloudfront.net/VW0vBUFfSd2yMK7zTipH_ce4cb09f2d654e29cdf8cc74ba7f26ed9.png" width="100px" />  
-</a>  
+#### Atualmente participando como desenvolvedor na Bra.In (I'm currently participating as developer at Bra.In)
 <a href="https://brain.ufcg.edu.br">
-  <img src="https://lh6.googleusercontent.com/6usJxmeLDsblJYHBdukiZLaG_on6_5wTW9oz2pB1jAwAusOZzpfq8xZuz42DrKgrtOMDIEqRF7nZg29nA-V_l7GsJTEDOMEQatXs79AseZbmFR92=w1280" height="100px"/>
+  <img src="https://media.licdn.com/dms/image/C4E0BAQGPLfVKJ_u-8Q/company-logo_200_200/0/1630586131834/brain_ufcg_logo?e=2147483647&v=beta&t=bCWCeJLHlmCLWJioypOG6PnN0hEEeLrlnWlkTuSavnE" height="100px"/>
 </a>
 </div>
 
