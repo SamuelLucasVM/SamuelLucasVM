@@ -19,9 +19,9 @@ Sou estudante de Ciência da Computação na Universidade Federal de Campina Gra
 ![dotnet](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=222222&logo=dotnet&logoColor=F7DF1E&label=)
 ![golang](https://img.shields.io/static/v1?style=for-the-badge&message=GoLang&color=222222&logo=go&logoColor=F7DF1E&label=)
 
-#### Atualmente participando como desenvolvedor na Bra.In (I'm currently participating as developer at Bra.In)
-<a href="https://brain.ufcg.edu.br">
-  <img src="https://media.licdn.com/dms/image/C4E0BAQGPLfVKJ_u-8Q/company-logo_200_200/0/1630586131834/brain_ufcg_logo?e=2147483647&v=beta&t=bCWCeJLHlmCLWJioypOG6PnN0hEEeLrlnWlkTuSavnE" height="100px"/>
+#### Atualmente participando como desenvolvedor na WildlifeStudios (I'm currently participating as developer at WildlifeStudios)
+<a href="https://wildlifestudios.com/">
+  <img src="https://d1.awsstatic.com/Wildlife-Studios-logo.ffd4699f94fbda2058f32570888a310fe989961e.png" height="100px"/>
 </a>
 </div>
 
