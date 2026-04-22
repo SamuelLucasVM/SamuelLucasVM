@@ -1,11 +1,10 @@
-<img src="https://static.wikia.nocookie.net/pokeland/images/e/ef/Celebi.gif/revision/latest/thumbnail/width/360/height/360?cb=20170822034325&path-prefix=pt-br" min-width="100px" max-width="100px" width="100px" align="right" alt="Celebi">
+<img src="https://manchestergophers.com/static/images/spinning-gopher.gif" min-width="100px" max-width="100px" width="100px" align="right" alt="Goopher">
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 
-# 💫 About Me:
 <h1>
-Samuel Lucas
+📂 Samuel Lucas VM
 </h1>
 <p align="justify" > 
 Sou estudante de Ciência da Computação na Universidade Federal de Campina Grande (UFCG) atualmente atuando como Developer no laboratorio de Sistemas Inteligentes Bra.in e interessado em áreas diversas, com experiências em Programação Competitiva, Programação Web, Docker, Game Developer em Unity e GoLang.
